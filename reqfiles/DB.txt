@@ -1,0 +1,5 @@
+
+22    /Diwash Chand     /MALE     /30      /America Saraswatinagar      /9809529874   /1 Month /2000
+23    /Samriddhi Chand     /FEMALE      /16      /Samakoshi Chowk      /9875920495    /3 Months /6000
+24    /Pariniti Magar    /FEMALE    /21      /Xyznagar                 /9801946502    /6 Months /12000
+21    /Rishabh Chand     /MALE      /19      /Bazar-5      /9809465026    /1 Year               /24000
